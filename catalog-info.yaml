@@ -16,6 +16,6 @@ metadata:
 spec:
   type: openapi
   lifecycle: experimental
-  owner: team-c
+  owner: team-aaa
   definition:
     $text: ./openapi/3_1_0/index.yaml
