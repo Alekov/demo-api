@@ -4,6 +4,7 @@ metadata:
   name: petstore-webhook
   description: The petstore webhook API
   tags:
+    - team-a
     - store
     - rest
   links:
